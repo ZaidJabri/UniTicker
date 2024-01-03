@@ -1,0 +1,9 @@
+1- Manual Check:
+	- Choosing random operations and calculating how many users used them.
+2- Debugging:
+	- Using break points and tracing the code functionality using F10.
+3- Another File:
+	- I took the first 20 records and modified the data multiple times to ensure that the functions were functioning correctly. 
+	After that,I used the modified data with the same code and compare the output of the code with the contents of the file.
+4- Breakdown Code: 
+	- Breaking down the code into smaller units and trying to test each unit alone to see how it functions. 
