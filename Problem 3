@@ -1,0 +1,3 @@
+Just Change this line of code:
+From: var topTwoOperations = operationCounts.OrderByDescending(kv => kv.Value).Take(2);
+To: var topThreeOperations = operationCounts.OrderByDescending(kv => kv.Value).Take(3);
