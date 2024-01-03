@@ -46,7 +46,6 @@ class Program
 
             Console.WriteLine($"distinctUsersCount: {distinctUserCount}");
 
-            Console.WriteLine("Top Two Operations:");
             foreach (var item in topTwoOperations)
             {
                 var percentage = Math.Round(((float)item.Value / (float)distinctUserCount) * 100, 2);
